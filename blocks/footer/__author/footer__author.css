@@ -1,0 +1,10 @@
+.footer__author{
+    margin-bottom: 18px;
+    margin-top: 18px;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+}
