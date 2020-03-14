@@ -4,10 +4,7 @@
 
 .feinman{
     height: 790px;
-    background-color: #F2F2F2;
-    background-image: url(../../images/feinman.png);
-    background-repeat: no-repeat;
-    background-position: bottom left;
+    background: #F2F2F2 url(../../images/feinman.png) bottom left no-repeat;
     padding-top: 100px;
     position: relative;       
 }
